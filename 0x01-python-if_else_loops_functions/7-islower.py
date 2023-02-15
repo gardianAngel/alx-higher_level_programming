@@ -3,7 +3,7 @@
 
 def islower(need='A'):
     """check for lower case characters"""
-    for i in range(97, 122):
+    for i in range(97, 123):
         if ord(need) == i:
             print("{}".format(True))
         else:
