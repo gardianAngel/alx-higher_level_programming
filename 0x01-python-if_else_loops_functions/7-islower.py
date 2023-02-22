@@ -8,4 +8,3 @@ def islower(need='A'):
             return True
         else:
             return False
-
